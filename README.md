@@ -11,3 +11,7 @@ Just add an issue to this repository. In the issue, explain how to reproduce the
    <img width="570" alt="image" src="https://github.com/cesanta/mongoose-wizard/assets/601816/d2812c58-deb9-4bb7-bc50-a5ab73a355af">
    - Then click on the top-most entry of the backtrace, and copy-paste the snippet, too:
    <img width="873" alt="image" src="https://github.com/cesanta/mongoose-wizard/assets/601816/0a74b7b1-c7a0-4d9a-8d48-75191fbfe9e7">
+
+## Changelog
+
+- 2024-04-18 Added this repo, added outstanding issues, fixed 3 of them
