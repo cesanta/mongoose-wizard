@@ -14,6 +14,7 @@ Just add an issue to this repository. In the issue, explain how to reproduce the
 
 ## Changelog
 
+- 2024-05-03 Style editor, button styles, code editor folders
 - 2024-05-02 Replaced 'enum' with 'list' - dropdowns handling must be updated! Done panel loading UI. Updated glue_mqtt_publish: added topic arg
 - 2024-04-24 Added 'file' and 'ota' variables and associated 'upload' widget. Simplified text API signature, added `glue_printf()`
 - 2024-04-23 Added 'action' variable and associated 'button' widget. Fixed some issues
